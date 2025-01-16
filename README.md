@@ -23,7 +23,7 @@ Sweet conversations about Solana, memecoins, and blockchain technology -
 🎭 Dynamic personality that adapts to your mood and interests - 🖼️ Cute
 ASCII art to brighten your day - 🔊 Text-to-speech for hearing
 Block-chan\'s lovely voice (coming soon!)
-
+Run these files after the basic eliza installation process is complete
 \## Quick Start
 
 \`\`\`bash npm install block-chan-ai
